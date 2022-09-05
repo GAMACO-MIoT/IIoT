@@ -38,4 +38,4 @@ También estás invitado a sumarte a [nuestro Discord](https://discord.gg/wYCA2c
 Desde ya un enorme agradecimiento,  
 El Equipo de Humai
 
-<img src='http://grupogamacocom.ipage.com/Imagenes/logoUN1.png' width='80px' margin='100px'></img>
+<img src='http://grupogamacocom.ipage.com/Imagenes/logoUN1.png' width='200px' margin='100px'></img>
